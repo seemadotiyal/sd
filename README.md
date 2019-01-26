@@ -15,13 +15,6 @@ Many features offered by the Starter are from open-source component projects, ma
 
 ## Getting Started
 
-### Get the source code
-Make a directory for your project.  Clone or download and extract the starter in that directory.
-```
-git clone https://github.com/PredixDev/predix-webapp-starter.git  
-cd predix-webapp-starter
-```
-
 ### Install tools
 If you don't have them already, you'll need node, bower and gulp to be installed globally on your machine.  
 
